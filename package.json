@@ -1,6 +1,6 @@
 {
 	"name": "antiox",
-	"version": "0.1.0-rc.1",
+	"version": "0.1.0-rc.2",
 	"description": "I Wish I Was Writing Rust. Small utilities for Rust/Tokio-like primitives in TypeScript.",
 	"license": "MIT",
 	"type": "module",
