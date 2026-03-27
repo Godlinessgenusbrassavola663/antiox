@@ -1,10 +1,10 @@
 <p align="center">
-  <img src=".github/media/antiox.svg" alt="antiox" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/media/antiox-text-light.svg" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/media/antiox-text-dark.svg" />
+    <img src=".github/media/antiox-text-dark.svg" alt="antiox" />
+  </picture>
 </p>
-
-<h3 align="center">Antiox</h3>
-
-<h3 align="center">Zero-Cost Rust and Tokio-like primitives for TypeScript</h3>
 
 <p align="center">
   No custom DSL, no wrapper types, no extra allocations, and no dependencies.<br />
